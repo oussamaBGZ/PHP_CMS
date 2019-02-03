@@ -80,7 +80,7 @@ session_start();
                         <a href="category.php"><i class="fa fa-fw fa-table"></i> Categories</a>
                     </li>
                     <li>
-                        <a href="forms.html"><i class="fa fa-fw fa-edit"></i> Comments</a>
+                        <a href="comments.php"><i class="fa fa-fw fa-edit"></i> Comments</a>
                     </li>
                        <li>
                         <a href="javascript:;" data-toggle="collapse" data-target="#demo1"><i class="fa fa-fw fa-arrows-v"></i> Users <i class="fa fa-fw fa-caret-down"></i></a>
